@@ -1,0 +1,11 @@
+[31m[1mCMake Error[0m at /home/gnort/Work/WS/src/beginner_tutorials/CMakeLists.txt:204 (add_dependencies):
+  The dependency target "beginner_tutorials_generate_messages_cpp" of target
+  "listener" does not exist.
+
+
+[31m[1mCMake Error[0m at /home/gnort/Work/WS/src/beginner_tutorials/CMakeLists.txt:200 (add_dependencies):
+  The dependency target "beginner_tutorials_generate_messages_cpp" of target
+  "talker" does not exist.
+
+
+make: *** [cmake_check_build_system] Error 1

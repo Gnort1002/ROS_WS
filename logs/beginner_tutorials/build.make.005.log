@@ -1,0 +1,16 @@
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target beginner_tutorials_generate_messages_nodejs
+[  0%] Built target beginner_tutorials_generate_messages_lisp
+[ 20%] Built target beginner_tutorials_generate_messages_eus
+[ 20%] Built target beginner_tutorials_generate_messages_py
+[ 20%] Built target beginner_tutorials_generate_messages_cpp
+[35m[1mScanning dependencies of target talker[0m
+[ 20%] Built target beginner_tutorials_generate_messages
+[ 60%] Built target listener
+[ 80%] [32mBuilding CXX object CMakeFiles/talker.dir/src/talker.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /home/gnort/Work/WS/devel/.private/beginner_tutorials/lib/beginner_tutorials/talker[0m
+[100%] Built target talker

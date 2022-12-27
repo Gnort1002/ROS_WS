@@ -1,0 +1,1 @@
+/home/gnort/Work/WS/devel/.private/beginner_tutorials/share/roseus/ros/beginner_tutorials/manifest.l

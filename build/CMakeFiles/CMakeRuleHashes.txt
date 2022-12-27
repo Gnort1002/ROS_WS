@@ -1,0 +1,4 @@
+# Hashes of file build rules.
+153f89acab6f1c2f6a3e4d7b31888bad CMakeFiles/beginner_tutorials_generate_messages_eus
+cdd9eaf6270d6c878e20e62ac514f2cc CMakeFiles/clean_test_results
+1c42470379aaf9a554221c9ca3c1a8ac devel/share/roseus/ros/beginner_tutorials/manifest.l

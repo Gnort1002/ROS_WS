@@ -1,0 +1,6 @@
+devel_space: /home/gnort/Work/WS/devel
+install: false
+install_space: /home/gnort/Work/WS/install
+profile: default
+source_space: /home/gnort/Work/WS/src
+workspace: /home/gnort/Work/WS

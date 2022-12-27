@@ -1,0 +1,27 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "${default}",
+                "limitSymbolsToIncludedHeaders": false
+            },
+            "includePath": [
+                "/home/gnort/Work/PheNet-Study-ros1/devel/include/**",
+                "/opt/ros/melodic/include/**",
+                "/home/gnort/Work/PheNet-Study-ros1/src/autoware_joy_controller/include/**",
+                "/home/gnort/Work/WS/src/beginner_tutorials/include/**",
+                "/home/gnort/Work/PheNet-Study-ros1/src/ros1_ex/include/**",
+                "/home/gnort/Work/PheNet-Study-ros1/src/ros2_ex/include/**",
+                "/usr/include/**"
+            ],
+            "name": "ROS",
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "gnu11",
+            "cppStandard": "c++14",
+            "compileCommands": "/home/gnort/Work/WS/build/compile_commands.json",
+            "configurationProvider": "ms-vscode.cmake-tools"
+        }
+    ],
+    "version": 4
+}
